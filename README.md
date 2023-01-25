@@ -13,7 +13,7 @@
 - 🕶 Готовлюсь к боевым проектам
 - 🧸 Ищу возможность делать жизнь людей красивее, практичнее и удобнее
 
-<h4>⚒ Моя статистика:</h4>
+<h4>⚒ Мой стек:</h4>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,7 +26,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<h4>🏆Мой стек:</h4>
+<h4>🏆Моя статистика:</h4>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Denchik730&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Denchik730&theme=github_dark)
