@@ -1,7 +1,9 @@
 <h1 align="center">Привет! Меня зовут Денис 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>Потенциальный frontend разработчик и студент Я.Практикума</h3>
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 <!--
 **Denchik730/Denchik730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
