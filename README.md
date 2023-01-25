@@ -3,6 +3,7 @@
 <h3>Потенциальный frontend разработчик и студент Я.Практикума</h3>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <!--
 **Denchik730/Denchik730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
