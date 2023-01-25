@@ -13,11 +13,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Denchik730)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denchik730)](https://github.com/anuraghazra/github-readme-stats)
-
-[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/Denis730/badges/micro)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
 <!--
 **Denchik730/Denchik730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
