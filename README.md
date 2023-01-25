@@ -14,6 +14,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Denchik730&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Denchik730&theme=solarized_dark)
+
+
 <!--
 **Denchik730/Denchik730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
