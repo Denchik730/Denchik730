@@ -13,8 +13,8 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Denchik730&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Denchik730&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Denchik730&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?Denchik730=apploidx&theme=github_dark)
 
 - uses: Platane/snk@v2
   with:
