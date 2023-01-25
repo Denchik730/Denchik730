@@ -1,6 +1,6 @@
 <h1 align="center">Алоха, Меня зовут Денис 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Потенциальный front-end разработчик и студент Я.Практикума</h3>
+<h3 align="center">Потенциальный frontend разработчик и студент Я.Практикума</h3>
 ### Hi there 👋
 
 <!--
