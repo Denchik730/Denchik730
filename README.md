@@ -29,4 +29,3 @@
 <h4>🏆Моя статистика:</h4>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Denchik730&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Denchik730&theme=github_dark)
