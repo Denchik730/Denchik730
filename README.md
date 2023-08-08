@@ -5,8 +5,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/denis_gabbasov730)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/ICNSYNSNGW2BJ1)
 
-<h3>Потенциальный frontend разработчик и студент Я.Практикума</h3>
-
 - 🔭 Хочу исследовать новое и прогрессировать
 - 👯 Люблю работать в команде
 - 🎓 Освоить новые фреймворки
