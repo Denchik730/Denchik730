@@ -24,8 +24,6 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-Приложение по поиску фильмов: https://filmreview.nomoredomains.rocks/
-
 <h4>🏆Моя статистика:</h4>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Denchik730&theme=github_dark)
